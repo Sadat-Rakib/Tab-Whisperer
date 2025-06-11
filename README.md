@@ -25,13 +25,6 @@ Tab Whisperer is a productivity-focused web application built to **track and man
 | **Chart.js** | Graphs and visualizations      |
 | **Heroicons** | UI icons                      |
 
----
-
-## 📸 Screenshots
-
-| Main Interface | Analytics Dashboard |
-|----------------|---------------------|
-| ![Main](./assets/main-ui.png) | ![Dashboard](./assets/dashboard.png) |
 
 ---
 
