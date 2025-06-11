@@ -1,9 +1,6 @@
-[
 # 🚀 Tab Whisperer — A Smarter Way to Browse
 
 Tab Whisperer is a productivity-focused web application built to **track and manage browser tab usage** effectively. It empowers users to set intentions, time limits, and reasons for opening tabs — helping reduce digital distraction and improve focus. Designed with a clean UI, analytics dashboard, and goal-setting system.
-
-![Tab Whisperer Preview](./assets/demo-preview.png)
 
 ---
 
