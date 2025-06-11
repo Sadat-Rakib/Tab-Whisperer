@@ -1,4 +1,4 @@
-
+[
 # 🚀 Tab Whisperer — A Smarter Way to Browse
 
 Tab Whisperer is a productivity-focused web application built to **track and manage browser tab usage** effectively. It empowers users to set intentions, time limits, and reasons for opening tabs — helping reduce digital distraction and improve focus. Designed with a clean UI, analytics dashboard, and goal-setting system.
@@ -97,7 +97,7 @@ MIT © [Sadat Rakib](https://github.com/Sadat-Rakib)
 
 ## 📫 Contact
 
-- **GitHub**: [@Sadat-Rakib](https://github.com/Sadat-Rakib)
+- **GitHub**: [@Sadat-Rakib](https://github.com/Sadat-Rakib)](https://gitdocs1.s3.amazonaws.com/digests/sadat-rakib-tab-whisperer/bef3dd8b-e7b2-4b5c-8944-8f7ece33a28d.txt)
 - **LinkedIn**: [Sadat Rakib](https://linkedin.com/in/sadat-rakib)
 - **Portfolio**: *Coming Soon*
 
